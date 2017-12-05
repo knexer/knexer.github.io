@@ -180,6 +180,6 @@ Module['FS_createPath']('/ShearPanic/Content', 'Paks', true, true);
   }
 
  }
- loadPackage({"files": [{"audio": 0, "start": 0, "crunched": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"audio": 0, "start": 53, "crunched": 0, "end": 93, "filename": "/UE4CommandLine.txt"}, {"audio": 0, "start": 93, "crunched": 0, "end": 79055215, "filename": "/ShearPanic/Content/Paks/ShearPanic-HTML5.pak"}], "remote_package_size": 79055215, "package_uuid": "c20a5b1d-26c4-4391-a4bf-dca19d26f8c2"});
+ loadPackage({"files": [{"audio": 0, "start": 0, "crunched": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"audio": 0, "start": 53, "crunched": 0, "end": 93, "filename": "/UE4CommandLine.txt"}, {"audio": 0, "start": 93, "crunched": 0, "end": 79057968, "filename": "/ShearPanic/Content/Paks/ShearPanic-HTML5.pak"}], "remote_package_size": 79057968, "package_uuid": "3506d4bd-41b8-44a7-973f-05c97a3872ca"});
 
 })();
